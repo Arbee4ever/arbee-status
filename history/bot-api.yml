@@ -1,7 +1,7 @@
 url: https://api.statcord.arbeeco.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-26T09:36:30.301Z
+status: up
+code: 200
+responseTime: 653
+lastUpdated: 2024-10-26T09:48:00.283Z
 startTime: 2024-09-05T05:38:17.379Z
 generator: Upptime <https://github.com/upptime/upptime>
