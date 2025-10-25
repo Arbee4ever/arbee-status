@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.statcord.arbeeco.de.ico",
     "slug": "bot-api",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 495,
-    "timeDay": 484,
-    "timeWeek": 467,
-    "timeMonth": 490,
-    "timeYear": 499,
+    "timeDay": 465,
+    "timeWeek": 475,
+    "timeMonth": 488,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2025-09-02": 23,
       "2025-07-12": 38,
@@ -33,8 +33,7 @@
       "2024-11-24": 288,
       "2024-10-31": 508,
       "2024-10-30": 10,
-      "2024-10-26": 26,
-      "2024-10-25": 44
+      "2024-10-26": 26
     }
   },
   {
@@ -49,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 428,
-    "timeWeek": 257,
-    "timeMonth": 401,
+    "timeDay": 258,
+    "timeWeek": 266,
+    "timeMonth": 397,
     "timeYear": 293,
     "dailyMinutesDown": {}
   }
