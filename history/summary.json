@@ -40,19 +40,19 @@
     "url": "https://statcord.arbeeco.de",
     "icon": "https://icons.duckduckgo.com/ip3/statcord.arbeeco.de.ico",
     "slug": "website-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
     "timeDay": 210,
-    "timeWeek": 271,
-    "timeMonth": 276,
+    "timeWeek": 265,
+    "timeMonth": 274,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 0
     }
   }
 ]
