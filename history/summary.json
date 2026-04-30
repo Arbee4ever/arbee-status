@@ -30,9 +30,9 @@
     "url": "https://statcord.arbeeco.de",
     "icon": "https://icons.duckduckgo.com/ip3/statcord.arbeeco.de.ico",
     "slug": "website-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -42,6 +42,7 @@
     "timeMonth": 246,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2025-11-18": 161
     }
   }
