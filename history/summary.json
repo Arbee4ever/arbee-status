@@ -4,7 +4,7 @@
     "url": "https://api.statcord.arbeeco.de",
     "icon": "https://icons.duckduckgo.com/ip3/api.statcord.arbeeco.de.ico",
     "slug": "bot-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 455,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2026-05-04": 0,
       "2026-01-21": 31,
       "2025-11-16": 82,
       "2025-11-03": 19,
