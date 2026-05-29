@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.statcord.arbeeco.de.ico",
     "slug": "bot-api",
     "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.90%",
-    "time": 488,
-    "timeDay": 557,
-    "timeWeek": 447,
-    "timeMonth": 477,
+    "uptime": "99.46%",
+    "uptimeDay": "81.18%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.85%",
+    "time": 489,
+    "timeDay": 0,
+    "timeWeek": 452,
+    "timeMonth": 479,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-06-30": 28,
@@ -25,7 +25,8 @@
       "2026-05-04": 26,
       "2026-05-05": 180,
       "2026-05-21": 88,
-      "2026-05-28": 0
+      "2026-05-29": 114,
+      "2026-05-28": 157
     }
   },
   {
@@ -40,10 +41,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.95%",
     "time": 289,
-    "timeDay": 412,
-    "timeWeek": 289,
-    "timeMonth": 256,
-    "timeYear": 281,
+    "timeDay": 339,
+    "timeWeek": 312,
+    "timeMonth": 260,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2025-11-18": 161,
       "2026-04-30": 95
